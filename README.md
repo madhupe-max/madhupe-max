@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**madhupe-max/madhupe-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for financial technology, data analysis, and backend services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Areas of Expertise
+
+- **Python** – Data analysis, financial modelling, and portfolio risk analytics
+- **Java / Spring Boot** – Building robust backend microservices and REST APIs
+- **Financial Protocols** – Working with FIX protocol (binary <-> ASCII conversion)
+- **Quantitative Finance** – Portfolio risk analysis, ticker-based market data processing
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Run portfolio risk analysis on a set of tickers | Python |
+| [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII | Java |
+
+---
+
+### 📫 Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
