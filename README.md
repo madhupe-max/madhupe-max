@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer with a passion for financial technology, data analysis, and backend services.
+I'm a software developer with a passion for financial technology, data analysis, and backend services. I have been playing with AI to build and deploy solutions on prem and on cloud the last 2 years.
 
 ---
 
