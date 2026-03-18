@@ -23,6 +23,7 @@ I'm a software developer with a passion for financial technology, data analysis,
 
 **FinTech Protocols**
 - **FIX Protocol** — Message parsing/translation (binary ↔ ASCII), connectivity workflows
+- Hosted on Azure VM - http://145.132.97.115:8080/swagger-ui/index.html
 
 **AI / Engineering Enablement**
 - **Microsoft Foundry** — Rapid AI agent deployment; leveraging MCP servers to streamline engineering workflows
