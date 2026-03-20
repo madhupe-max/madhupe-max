@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-I'm a software developer with a passion for financial technology, data analysis, and backend services. I have been playing with AI to build and deploy solutions on prem and on cloud the last 2 years.
+I'm a software coder with a passion for financial technology, data analysis, and backend services. I have been playing with AI to build and deploy solutions on prem and on cloud the last 2 years.
 
 ---
 
