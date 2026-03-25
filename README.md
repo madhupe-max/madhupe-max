@@ -27,6 +27,7 @@ I'm a software coder with a passion for financial technology, data analysis, and
 
 **AI / Engineering Enablement**
 - **Microsoft Foundry** — Rapid AI agent deployment; leveraging MCP servers to streamline engineering workflows
+- **Playwright MCP** - User playwright MCP to test a simple web based UI
 
 ---
 
