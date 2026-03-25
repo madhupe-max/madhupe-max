@@ -34,8 +34,9 @@ I'm a software coder with a passion for financial technology, data analysis, and
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Simple project to run portfolio risk analysis on a set of tickers | Python |
-| [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII | Java |
+| [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis + LangGraph-based AI agent; includes Docker packaging and improved error handling | Python |
+| [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII; now containerized for VM deployment with Swagger multipart upload support | Java |
+| [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP-related tooling; recent work focused on browser tab selection/indexing behavior | (see repo) |
 
 ---
 
