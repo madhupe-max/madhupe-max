@@ -38,8 +38,8 @@ I'm a software coder with a passion for financial technology, data analysis, and
 | [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis + LangGraph-based AI agent; includes Docker packaging and improved error handling | Python |
 | [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII; now containerized for VM deployment with Swagger multipart upload support |[...] |
 | [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | Simple ReactJS UI to perform bulk edits on a MongoDB instance | JavaScript |
-| [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP-related tooling; recent work focused on browser tab selection/indexing behavior | (see repo) |
-| [DataObfus](https://github.com/madhupe-max/DataObfus) | Data obfuscation utilities (redaction/masking) for sensitive fields | (see repo) |
+| [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP-related tooling; recent work focused on browser tab selection/indexing behavior | JavaScript/Typescript |
+| [DataObfus](https://github.com/madhupe-max/DataObfus) | Data obfuscation utilities (redaction/masking) for sensitive fields | Python |
 
 ---
 
