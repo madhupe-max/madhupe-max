@@ -28,6 +28,7 @@ I'm a software coder with a passion for financial technology, data analysis, and
 **AI / Engineering Enablement**
 - **Microsoft Foundry** — Rapid AI agent deployment; leveraging MCP servers to streamline engineering workflows
 - **Playwright MCP** - Use playwright MCP to test a simple web based UI
+- **Local LLM Inference** — Comparing local Ollama inference with cloud-hosted LLM responses and latency
 
 ---
 
@@ -39,6 +40,7 @@ I'm a software coder with a passion for financial technology, data analysis, and
 | [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII; now containerized for VM deployment with Swagger multipart upload support | Java |
 | [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | Simple ReactJS UI to perform bulk edits on a MongoDB instance | JavaScript |
 | [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP server for browser automation using Playwright, with MCP client setup guides, browser extension support, and programmatic usage options | TypeScript |
+| [local-llm-inference](https://github.com/madhupe-max/local-llm-inference) | Compares inference output and latency between a local Ollama model and a cloud LLM, with simple setup, CLI execution, and test support | Python |
 | [DataObfus](https://github.com/madhupe-max/DataObfus) | Data obfuscation utilities (redaction/masking) for sensitive fields | Python |
 
 ### ✨ Latest Repository Highlight
@@ -46,6 +48,13 @@ I'm a software coder with a passion for financial technology, data analysis, and
 - **[playwright-mcp](https://github.com/madhupe-max/playwright-mcp)** — My most recently updated repository, pushed on 2026-06-03.
 - A TypeScript-based Model Context Protocol (MCP) server for browser automation with Playwright.
 - Includes setup instructions for multiple MCP clients, support for persistent profiles and isolated sessions, browser extension connectivity, and configurable server/runtime options.
+
+### 🧠 Local LLM Experimentation
+
+- **[local-llm-inference](https://github.com/madhupe-max/local-llm-inference)** — A lightweight Python project to compare local and cloud LLM inference behavior.
+- Uses **Ollama** for local model execution and **OpenAI-compatible APIs** for cloud inference.
+- Helps evaluate both **response quality** and **latency differences** between deployment approaches.
+- Includes virtual environment setup, CLI-based prompt comparison, direct local prompt execution, and pytest support.
 
 ---
 
