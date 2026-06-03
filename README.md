@@ -38,8 +38,14 @@ I'm a software coder with a passion for financial technology, data analysis, and
 | [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis + LangGraph-based AI agent; includes Docker packaging and improved error handling | Python |
 | [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII; now containerized for VM deployment with Swagger multipart upload support | Java |
 | [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | Simple ReactJS UI to perform bulk edits on a MongoDB instance | JavaScript |
-| [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP-related tooling; recent work focused on browser tab selection/indexing behavior | JavaScript/Typescript |
+| [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | Playwright MCP server for browser automation using Playwright, with MCP client setup guides, browser extension support, and programmatic usage options | TypeScript |
 | [DataObfus](https://github.com/madhupe-max/DataObfus) | Data obfuscation utilities (redaction/masking) for sensitive fields | Python |
+
+### ✨ Latest Repository Highlight
+
+- **[playwright-mcp](https://github.com/madhupe-max/playwright-mcp)** — My most recently updated repository, pushed on 2026-06-03.
+- A TypeScript-based Model Context Protocol (MCP) server for browser automation with Playwright.
+- Includes setup instructions for multiple MCP clients, support for persistent profiles and isolated sessions, browser extension connectivity, and configurable server/runtime options.
 
 ---
 
