@@ -7,27 +7,27 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-I'm a software coder with a passion for financial technology, data analysis, and backend services. I have been playing with AI to build and deploy solutions on prem and on cloud the last 2 years.
+I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across both on-prem and cloud environments.
 
 ---
 
 ### 🛠️ Areas of Expertise
 
 **Backend Engineering**
-- **Java / Spring Boot** — Microservices, REST APIs, service integration
-- **Python** — Data processing, automation, API integrations
+- **Java / Spring Boot** — Microservices, REST APIs, and service integration
+- **Python** — Data processing, automation, and API integrations
 
 **Data + Quant**
-- **Financial Modelling** — Analytics for portfolios and market data
-- **Portfolio Risk Analytics** — Risk calculations over ticker-based datasets
+- **Financial Modelling** — Portfolio and market data analytics
+- **Portfolio Risk Analytics** — Risk calculations across ticker-based datasets
 
 **FinTech Protocols**
-- **FIX Protocol** — Message parsing/translation (binary ↔ ASCII), connectivity workflows
+- **FIX Protocol** — Message parsing, translation (binary ↔ ASCII), and connectivity workflows
 - Hosted on Azure VM - http://145.132.97.115:8080/swagger-ui/index.html
 
 **AI / Engineering Enablement**
-- **Microsoft Foundry** — Rapid AI agent deployment; leveraging MCP servers to streamline engineering workflows
-- **Playwright MCP** — Browser automation tooling for MCP-based agent workflows
+- **Microsoft Foundry** — Rapid AI agent deployment and MCP-enabled engineering workflows
+- **Playwright MCP** — Browser automation for MCP-based agent workflows
 - **Local LLM Inference** — Benchmarking local and cloud LLM inference for latency and output quality
 
 ---
@@ -36,12 +36,12 @@ I'm a software coder with a passion for financial technology, data analysis, and
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis + LangGraph-based AI agent; includes Docker packaging and improved error handling | Python |
-| [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service to convert FIX binary messages to ASCII; now containerized for VM deployment with Swagger multipart upload support | Java |
-| [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | Simple ReactJS UI to perform bulk edits on a MongoDB instance | JavaScript |
+| [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis with a LangGraph-based AI agent, including Docker packaging and improved error handling | Python |
+| [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service for converting FIX binary messages to ASCII, containerized for VM deployment with Swagger multipart upload support | Java |
+| [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | React-based UI for performing bulk edits on MongoDB data | JavaScript |
 | [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | MCP-based browser automation server built on Playwright, with client setup guides, extension support, and flexible runtime configuration | TypeScript |
 | [local-llm-inference](https://github.com/madhupe-max/local-llm-inference) | Python utility for comparing local Ollama and cloud LLM inference across response quality and latency | Python |
-| [DataObfus](https://github.com/madhupe-max/DataObfus) | Data obfuscation utilities (redaction/masking) for sensitive fields | Python |
+| [DataObfus](https://github.com/madhupe-max/DataObfus) | Utilities for redacting and masking sensitive PII and MNPI data | Python |
 
 ### ✨ Latest Repository Highlight
 
