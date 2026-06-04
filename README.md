@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across both on-prem and cloud environments.
+I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across portfolio analytics, browser automation, data masking, FIX protocol processing, and local LLM experimentation.
 
 ---
 
@@ -29,6 +29,7 @@ I'm a software engineer focused on financial technology, data analysis, backend 
 - **Microsoft Foundry** — Rapid AI agent deployment and MCP-enabled engineering workflows
 - **Playwright MCP** — Browser automation for MCP-based agent workflows
 - **Local LLM Inference** — Benchmarking local and cloud LLM inference for latency and output quality
+- **Mobile Test Automation** — Android device testing with Java, Maven, Appium, and Selenium
 
 ---
 
@@ -42,12 +43,13 @@ I'm a software engineer focused on financial technology, data analysis, backend 
 | [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | MCP-based browser automation server built on Playwright, with client setup guides, extension support, and flexible runtime configuration | TypeScript |
 | [local-llm-inference](https://github.com/madhupe-max/local-llm-inference) | Python utility for comparing local Ollama and cloud LLM inference across response quality and latency | Python |
 | [DataObfus](https://github.com/madhupe-max/DataObfus) | Utilities for redacting and masking sensitive PII and MNPI data | Python |
+| [MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting) | Java-based Appium test suite for validating Android app battery usage under workload, using Maven, JUnit 5, Selenium, and adb-driven battery checks | Java |
 
 ### ✨ Latest Repository Highlight
 
-- **[playwright-mcp](https://github.com/madhupe-max/playwright-mcp)** — My most recently updated repository, pushed on 2026-06-03.
-- A TypeScript-based MCP server for structured browser automation with Playwright.
-- Designed for agent workflows, with support for multiple MCP clients, browser extension connectivity, persistent sessions, and flexible runtime configuration.
+- **[MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting)** — Newly created repository for Android mobile device battery usage testing.
+- A Java-based test automation project that uses Appium and Selenium to run workload-based battery validation on connected devices or emulators.
+- Includes Maven-based test execution, configurable runtime environment variables, and threshold-based battery drop assertions.
 
 ### 🧠 Local LLM Experimentation
 
