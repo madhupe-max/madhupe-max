@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across portfolio analytics, browser automation, data masking, FIX protocol processing, and local LLM experimentation.
+I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across cloud, data, automation, and testing workflows.
 
 ---
 
@@ -43,7 +43,8 @@ I'm a software engineer focused on financial technology, data analysis, backend 
 | [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | MCP-based browser automation server built on Playwright, with client setup guides, extension support, and flexible runtime configuration | TypeScript |
 | [local-llm-inference](https://github.com/madhupe-max/local-llm-inference) | Python utility for comparing local Ollama and cloud LLM inference across response quality and latency | Python |
 | [DataObfus](https://github.com/madhupe-max/DataObfus) | Utilities for redacting and masking sensitive PII and MNPI data | Python |
-| [MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting) | Java-based Appium test suite for validating Android app battery usage under workload, using Maven, JUnit 5, Selenium, and adb-driven battery checks | Java |
+| [DataTesting](https://github.com/madhupe-max/DataTesting) | Python repository for data testing experiments and validation workflows | Python |
+| [MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting) | Java-based Appium test suite for validating Android app battery usage under workload, using Maven, JUnit 5, Selenium, and emulator/device execution | Java |
 
 ### ✨ Latest Repository Highlight
 
