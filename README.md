@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across cloud, data, automation, and testing workflows.
+I'm a software engineer focused on financial technology, data analysis, backend systems, and practical AI solutions. Over the last two years, I've been building and deploying AI-driven tools across FinTech, automation, and developer productivity workflows.
 
 ---
 
@@ -29,6 +29,7 @@ I'm a software engineer focused on financial technology, data analysis, backend 
 - **Microsoft Foundry** — Rapid AI agent deployment and MCP-enabled engineering workflows
 - **Playwright MCP** — Browser automation for MCP-based agent workflows
 - **Local LLM Inference** — Benchmarking local and cloud LLM inference for latency and output quality
+- **LangGraph Agents** — Building workflow agents for portfolio analytics and defect triage
 - **Mobile Test Automation** — Android device testing with Java, Maven, Appium, and Selenium
 
 ---
@@ -37,20 +38,21 @@ I'm a software engineer focused on financial technology, data analysis, backend 
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [TestFailureTriage](https://github.com/madhupe-max/TestFailureTriage) | LangGraph-based defect triage agent project for classifying and routing test failures | Python |
+| [DataTesting](https://github.com/madhupe-max/DataTesting) | Python repository for data testing experiments and validation workflows, recently expanded with new test content | Python |
 | [portfoliorisk](https://github.com/madhupe-max/portfoliorisk) | Portfolio risk analysis with a LangGraph-based AI agent, including Docker packaging and improved error handling | Python |
 | [TPSCatcher](https://github.com/madhupe-max/TPSCatcher) | Spring Boot service for converting FIX binary messages to ASCII, containerized for VM deployment with Swagger multipart upload support | Java |
 | [mongo-bulk-edit-ui](https://github.com/madhupe-max/mongo-bulk-edit-ui) | React-based UI for performing bulk edits on MongoDB data | JavaScript |
 | [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) | MCP-based browser automation server built on Playwright, with client setup guides, extension support, and flexible runtime configuration | TypeScript |
 | [local-llm-inference](https://github.com/madhupe-max/local-llm-inference) | Python utility for comparing local Ollama and cloud LLM inference across response quality and latency | Python |
 | [DataObfus](https://github.com/madhupe-max/DataObfus) | Utilities for redacting and masking sensitive PII and MNPI data | Python |
-| [DataTesting](https://github.com/madhupe-max/DataTesting) | Python repository for data testing experiments and validation workflows | Python |
-| [MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting) | Java-based Appium test suite for validating Android app battery usage under workload, using Maven, JUnit 5, Selenium, and emulator/device execution | Java |
+| [MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting) | Java-based Appium test suite for validating Android app battery usage under workload, using Maven, JUnit 5, Selenium, and Appium | Java |
 
-### ✨ Latest Repository Highlight
+### ✨ Latest Updates (as of July 11, 2026)
 
-- **[MobileDeviceTesting](https://github.com/madhupe-max/MobileDeviceTesting)** — Newly created repository for Android mobile device battery usage testing.
-- A Java-based test automation project that uses Appium and Selenium to run workload-based battery validation on connected devices or emulators.
-- Includes Maven-based test execution, configurable runtime environment variables, and threshold-based battery drop assertions.
+- **New repository:** [TestFailureTriage](https://github.com/madhupe-max/TestFailureTriage) (created on **July 11, 2026**) — LangGraph defect triage agent project.
+- **Recent active work:** [DataTesting](https://github.com/madhupe-max/DataTesting) — active updates pushed on **July 11, 2026**.
+- **Recent platform work:** [playwright-mcp](https://github.com/madhupe-max/playwright-mcp) — updates pushed on **July 9, 2026**.
 
 ### 🧠 Local LLM Experimentation
 
